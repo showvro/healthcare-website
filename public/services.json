@@ -1,0 +1,83 @@
+[
+  {
+    "id": "1",
+    "name": "Hridoy Pal",
+    "img": "https://www.bdspecializedhospital.com/storage/app/public/media/1557726098.jpg",
+    "spacility": "Eye Specialist",
+    "fee": "$05",
+    "company": "Bangladesh Hospital Agency",
+    "about": ""
+  },
+  {
+    "id": "2",
+    "name": "Krishna Vodro",
+    "img": "https://www.bdspecializedhospital.com/storage/app/public/media/1557718349.jpg",
+    "spacility": "Kid Specialist",
+    "fee": "$10",
+    "company": "Bangladesh Hospital Agency",
+    "about": ""
+  },
+  {
+    "id": "3",
+    "name": "Mehedi Hasan",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0cNd6qe--Xndd_Fz4Y_lWapSmNSGCkzR8P3WtarTCaGzH2y3wHS50JLe0Fu0RlI84y2U&usqp=CAU",
+    "spacility": "Ear Specialist",
+    "fee": "$10",
+    "company": "Bangladesh Hospital Agency",
+    "about": ""
+  },
+  {
+    "id": "4",
+    "name": "Taranath Ghosh",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5nvCB4rTyA27bfUD0r_WvCwCFSNtyOFh2uU2aqm5yWENsPOlbQRaPIdHROWUNCy6kAyo&usqp=CAU",
+    "spacility": "Heart Specialist",
+    "fee": "$10",
+    "company": "Bangladesh Hospital Agency",
+    "about": ""
+  },
+  {
+    "id": "5",
+    "name": "Selim Reza",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzN4GzeqDY_v1uZ5zbsw5b_kBttw1hSw7pBMFeSwlzVNFYcBYYBfgZBueaIGw-NPs9_j0&usqp=CAU",
+    "spacility": "Liver Specialist",
+    "fee": "$10",
+    "company": "Bangladesh Hospital Agency",
+    "about": ""
+  },
+  {
+    "id": "6",
+    "name": "Horroshit C.",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTG1VRnsXPJCafuqO9jbVl9euZ4kvyIQGxpVhIygDIPJ_G9dHXwxLqbYGtoF5c3IlyH7_4&usqp=CAU",
+    "spacility": "Medecine",
+    "fee": "$10",
+    "company": "Bangladesh Hospital Agency",
+    "about": ""
+  },
+  {
+    "id": "7",
+    "name": "Shahriar Nasrin",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBCYM5zJF7VdR5LzUNJB8Bf6eUYAoJxVvneQ&usqp=CAU",
+    "spacility": "Skin Deasis",
+    "fee": "$10",
+    "company": "Bangladesh Hospital Agency",
+    "about": ""
+  },
+  {
+    "id": "8",
+    "name": "Enayet Hossain",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLwCxMsoSXj7xuzMZ3GFdfeBkw0beZJtx-Mg&usqp=CAU",
+    "spacility": "Dental Expert",
+    "fee": "$10",
+    "company": "Bangladesh Hospital Agency",
+    "about": ""
+  },
+  {
+    "id": "9",
+    "name": "Sabrina Rahman",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwYXK5IXKGsyx4iEGc1PjoSy9xPnTOQUfFOg&usqp=CAU",
+    "spacility": "Female Desease Expert",
+    "fee": "$10",
+    "company": "Bangladesh Hospital Agency",
+    "about": ""
+  }
+]
